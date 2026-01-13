@@ -7,7 +7,7 @@ This Python program reads one or more CSV files containing people's data (name, 
 1. User enters the CSV file(s) name.
 2. The program lists all available cities from the data.
 3. User selects a city.
-4. Program filters adults (18+), counts them, finds the oldest, and sorts the list by age.
+4. Program filters adults, counts them, finds the oldest, and sorts the list by age.
 5. Output is printed on the screen and saved to a CSV file.
 
 ## How to run
